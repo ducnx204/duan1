@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quản Lý Thu Chi</string>
+
+    <string name="nav_chi_tieu">Chi Tiêu</string>
+    <string name="nav_thu_nhap">Thu Nhập </string>
+    <string name="nav_loai_chi">Loại Chi</string>
+    <string name="nav_loai_thu">Loại Thu</string>
+    <string name="nav_thong_ke_chi">Thống kê chi</string>
+    <string name="nav_thong_ke_thu">Thống kê thu</string>
+    <string name="nav_news">Tin tức</string>
+    <string name="nav_my_profiles"> My Profiles</string>
+    <string name="nav_add_user">Tạo tài khoản</string>
+    <string name="nav_change_pass">Đổi mật khẩu</string>
+    <string name="nav_logout">Đăng xuất</string>
+    <string name="nav_open">Open navigation drawer</string>
+    <string name="nav_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tool_bar">Quản Lý Thu Chi</string>
+
+</resources>

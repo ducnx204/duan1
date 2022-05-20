@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/custom_thongke"
+    android:padding="10dp"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Loại Chi"
+        android:textSize="26dp"
+        android:background="#129CD3"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+
+        />
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edIdLoaiChi"
+        android:hint="Mã Loại Chi"
+        android:layout_marginTop="50dp"
+        android:textColorHint="@android:color/darker_gray"
+        android:textColor="@color/black"
+
+
+        />
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edNameLoaiChi"
+        android:hint="Tên Loại Chi"
+        android:layout_marginTop="20dp"
+        android:textColorHint="@android:color/darker_gray"
+        android:textColor="@color/black"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        >
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lưu"
+        android:layout_margin="20dp"
+        android:id="@+id/btnSaveLC"
+        android:textColor="@color/white"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:id="@+id/btnCancelLC"
+        android:textColor="@color/white"
+        android:text="Hủy"/>
+    </LinearLayout>
+</LinearLayout>

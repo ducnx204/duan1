@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TroGiup_Activity"
+    android:id="@+id/linearLayout"
+    android:background="#0E5E5E5E"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/black"
+            android:titleTextColor="@color/white"
+            android:scrollbarSize="15dp"
+            android:paddingLeft="20dp"
+            android:layout_weight="1"
+            android:title="Trợ Giúp"/>
+        <ImageView
+            android:id="@+id/Image_thoat_trogiup"
+            android:background="@color/black"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/thoat"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/lga"
+        android:scaleType="fitXY"
+        android:layout_marginTop="40dp"
+        />
+
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsbold"
+        android:text="Hỗ Trợ Quản Lý Thu Chi"
+        android:textColor="@color/black"
+        android:textSize="24dp"
+        />
+    <TextView
+        android:layout_marginLeft="10dp"
+
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Các câu hỏi thường gặp : "
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginTop="35dp"
+        android:textColor="@color/black"
+        android:text="1. Tôi không thể tạo tài khoản trên Quản Lý Thu Chi"
+        />
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="16dp"
+        android:layout_marginTop="15dp"
+        android:text="Bạn có thể tạo tài khoản bằng cách nhấn click vào nút đăng ký trên màn hình đăng nhập."
+        />
+    <TextView
+        android:layout_marginLeft="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/black"
+        android:text="2. Số Lương tối mà tôi có thể thêm "
+        />
+    <TextView
+        android:layout_marginLeft="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/darker_gray"
+        android:text="Số lượng thêm khoản thu chi của bạn là không giới hạn."
+        />
+    />
+    <TextView
+        android:layout_marginLeft="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginTop="15dp"
+
+        android:textColor="@color/black"
+        android:text="3. Tôi không thể thấy số dư hiện tại của tôi"
+        />
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="5dp"
+        android:textSize="16dp"
+        android:text="Bạn có thể vào trong mục cá nhân bạn sẻ thấy số dư hoặc bạn có thể vào thư mục trang chủ biểu đồ bạn sẻ thấy chức năng này nhé."
+        />
+
+</LinearLayout>

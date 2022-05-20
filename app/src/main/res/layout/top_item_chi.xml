@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="5dp"
+    android:padding="5dp"
+    android:background="@drawable/boxshadow3"
+    android:layout_margin="10dp"
+    >
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_weight="0"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/money_c"
+        android:layout_gravity="center"
+        android:layout_marginEnd="2dp"
+        />
+
+    <TextView
+        android:id="@+id/tvTenLoaiC"
+        android:layout_width="60dp"
+        android:layout_height="30dp"
+        android:paddingTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="4"
+        android:layout_marginTop="2dp"
+        android:text="MaLoai"
+        android:paddingLeft="10dp"
+        android:textColor="@color/black"
+        android:textSize="12dp"
+        android:layout_marginEnd="2dp"
+
+        />
+
+    <TextView
+        android:id="@+id/tvSTC"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="2"
+        android:paddingLeft="10dp"
+        android:layout_marginEnd="2dp"
+        android:text="So tien"
+        android:paddingTop="5dp"
+        android:textColor="#FF0000"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+</LinearLayout>

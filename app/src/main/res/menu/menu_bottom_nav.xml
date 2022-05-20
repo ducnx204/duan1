@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottom_trang_chu"
+        android:title="Trang Chủ"
+        android:icon="@drawable/ic_home_black_24dp"
+        />
+    <item android:id="@+id/bottom_so_chi_tieu"
+        android:title="Sổ Chi Tiêu"
+        android:icon="@drawable/ic_so_chi_tieu"
+        />
+<item android:id="@+id/bottom_phan_loai"
+    android:title="Phân Loại"
+    android:icon="@drawable/ic_phanloai"
+    />
+    <item android:id="@+id/bottom_ca_nhan"
+        android:title="Cá Nhân"
+        android:icon="@drawable/ic_canhan"
+        />
+    <item android:id="@+id/bottom_news"
+        android:title="@string/nav_news"
+        android:icon="@drawable/ic_feed"
+        />
+
+</menu>

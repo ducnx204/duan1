@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable-v24/background_app.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable-v24/boxshadow.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable-v24/custom_doanhthu.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable-v24/custom_ed.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable-v24/custom_thongke.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable-v24/menu.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/boxshadow2.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/boxshadow3.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/custom_doanhthu.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/custom_input.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/custom_input2.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/custom_input3.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/ic_android.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/ic_lc.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/ic_lt.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/ic_menu_camera.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/ic_so_chi_tieu.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/drawable/side_nav_bar.xml" value="0.309375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_bieu_do.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_dangki.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_doi_mat_khau.xml" value="0.27807971014492755" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_gioi_thieu.xml" value="0.27807971014492755" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_load_wed2.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_login.xml" value="0.14260385005065856" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_main.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_manhinhchao.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_news.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_thong_ke.xml" value="0.1421875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_top.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/activity_tro_giup.xml" value="0.27807971014492755" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/dialog_loai_chi.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/dialog_loaithu.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/dialog_them_khoan_chi.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/dialog_them_khoan_thu.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_add_user.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_bieu_do.xml" value="0.14260385005065856" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_bieu_dok.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_ca_nhan.xml" value="0.27807971014492755" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_change_pass.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_chi.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_loai_chi.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_loai_thu.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_news.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_phan_loai.xml" value="0.14447463768115942" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_so_chi_tieu.xml" value="0.2930253623188406" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_thong_ke.xml" value="0.2930253623188406" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_thong_ke_theo_chi.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_thong_ke_theo_thu.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_thu.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_top.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_top_khoan_chi.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_top_khoan_thu.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/fragment_trang_chu.xml" value="0.2930253623188406" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/item_listview.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/khoan_chi_item.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/khoan_thu_item.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/layout_header_nav.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/loai_chi_item.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/loai_chi_spiner_item.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/loai_thu_item.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/loai_thu_spiner_item.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/toolbar_2.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/top_item.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/top_item_chi.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/layout/top_item_thu.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/menu/menu_bottom_nav.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/QLTCDA1/app/src/main/res/menu/menu_nav.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Administrator/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.15625" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/drawable/adduser.xml" value="0.12291666666666666" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/drawable/button_check.xml" value="0.12291666666666666" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/drawable/custom_input2.xml" value="0.16574074074074074" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/drawable/custom_input3.xml" value="0.16574074074074074" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/activity_dangki.xml" value="0.3333333333333333" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/activity_doi_mat_khau.xml" value="0.3258278145695364" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/activity_gioi_thieu.xml" value="0.3333333333333333" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/activity_manhinhchao.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/activity_news.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/activity_tro_giup.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/dialog_loai_chi.xml" value="0.10144927536231885" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/dialog_loaithu.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/dialog_them_khoan_thu.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_add_user.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_bieu_do.xml" value="0.22" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_ca_nhan.xml" value="0.3333333333333333" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_change_pass.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_chi.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_loai_chi.xml" value="0.22" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_loai_thu.xml" value="0.14666666666666667" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_nam_.xml" value="0.1" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_news.xml" value="0.12" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_ngay_.xml" value="0.12" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_phan_loai.xml" value="0.22" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_so_chi_tieu.xml" value="0.10666666666666667" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_thang_.xml" value="0.16666666666666666" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_thong_ke.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_thong_ke_theo_chi.xml" value="0.125" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_thong_ke_theo_thu.xml" value="0.1" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_thu.xml" value="0.4466666666666667" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_top.xml" value="0.1" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_top_khoan_chi.xml" value="0.1" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_top_khoan_thu.xml" value="0.13333333333333333" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/fragment_trang_chu.xml" value="0.4466666666666667" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/item_chonthang_spiner.xml" value="0.13333333333333333" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/khoan_chi_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/khoan_thu_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/layout_header_nav.xml" value="0.1" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/loai_chi_item.xml" value="0.5" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/loai_thu_item.xml" value="0.3987034035656402" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/loai_thu_spiner_item.xml" value="0.1" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/nguoi_dung_item.xml" value="0.1" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/top_item_chi.xml" value="0.4466666666666667" />
+        <entry key="..\:/d11/duan1-main/app/src/main/res/layout/top_item_thu.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

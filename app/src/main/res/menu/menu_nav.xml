@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single"
+    >
+
+    <item android:id="@+id/nav_chi"
+        android:title="Chi tiêu "
+        android:icon="@drawable/chi"
+
+        />
+    <item android:id="@+id/nav_loai_chi"
+        android:title="Loại Chi  "
+        android:icon="@drawable/ic_lc"
+        />
+    <item android:id="@+id/nav_thu_nhap"
+        android:title="Thu nhập"
+
+        />
+    <item android:id="@+id/nav_loai_thu"
+        android:title="Loại Thu "
+        android:icon="@drawable/ic_lt"
+        />
+    <item android:title="Thống kê">
+        <menu>
+
+
+            <item
+                android:id="@+id/thong_ke"
+                android:icon="@drawable/ic_tk"
+                android:title="Thống kê"/>
+
+            <item
+                android:id="@+id/Top"
+                android:icon="@drawable/ic_tk"
+                android:title="Top"/>
+        </menu>
+
+    </item>
+    <item android:title="Người dùng">
+        <menu>
+            <item
+                android:id="@+id/sub_add_user"
+                android:icon="@drawable/adduser"
+                android:title="Thêm người dùng"/>
+            <item
+                android:id="@+id/change_pass"
+                android:icon="@drawable/changepass"
+                android:title="Đổi mật khẩu"/>
+
+
+        </menu>
+    </item>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/news"
+                android:icon="@drawable/ic_feed"
+                android:title="Tin tức"/>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Đăng xuất"/>
+
+        </menu>
+    </item>
+</group>
+</menu>
